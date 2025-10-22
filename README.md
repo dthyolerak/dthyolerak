@@ -53,7 +53,8 @@ I’ve developed platforms powering industries from **agriculture** and **health
 | 💰 [**WealthBridge**](https://wealthbridgemw.com) | Loan management & financial consulting platform with mobile app integration. | Next.js · TypeScript · Prisma · Node.js · PostgreSQL · TailwindCSS · REST API · Docker · Hostinger VPS | 🟢 Live |
 | 🧬 [**Pacific Diagnostics**](https://pacificdiagnosticsmw.com) | Corporate healthcare platform with patient management & appointment booking. | Next.js · TypeScript · Prisma · Node.js · PostgreSQL · TailwindCSS · REST API · Docker · Hostinger VPS | 🟢 Live |
 | 💡 [**Identity Impact Hub**](https://identityimpacthub.com) | Innovation and entrepreneurship hub platform for startups and community programs. | Next.js · TypeScript · TailwindCSS · Node.js · PostgreSQL · Prisma · REST API · Vercel | 🟢 Live |
-| 🏢 [**JF Investments Group**](https://jfinvestgroup.com) | Corporate group website representing subsidiaries in agriculture, logistics, and aviation. | Next.js · TypeScript · TailwindCSS · Node.js · PostgreSQL · Prisma · REST API · DigitalOcean | 🟠 Development |
+| 🏢 [**JF Investments Group**](https://jfinvestgroup.com) | Centralized Business Management Platform representing subsidiaries in agriculture, logistics, and aviation. | Next.js · TypeScript · TailwindCSS · Node.js · PostgreSQL · Prisma · REST API · DigitalOcean | 🟠 Development |
+| 🏢 [**Zachangu Commuters Ltd**](https://zachangu.mw/) | Malawi's most trusted ride-hailing platform. Safe, reliable, and affordable transportation for everyone | Next.js · TypeScript · TailwindCSS · Node.js · PostgreSQL · Prisma · REST API · DigitalOcean | 🟠 Development |
 
 ---
 
