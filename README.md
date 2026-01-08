@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#F97316">Donnex T. Kamsonga</span></h1>
-<h3 align="center">💻 Full-Stack Software Engineer | 🚀 Founder & CEO — INFI-TECH INC</h3>
+<h3 align="center">💻 Full-Stack Software Engineer | Sales Operations  |  Automation Engineer </h3>
 <p align="center">
   🌍 Based in Lilongwe, Malawi | 🌐 Building Scalable Systems Across Africa & Beyond
 </p>
@@ -7,7 +7,7 @@
 ---
 
 ### 🧠 About Me
-I’m **Donnex T. Kamsonga**, a passionate **Full-Stack Software Engineer** with **6+ years** of experience architecting, building, and deploying **scalable, secure, and user-centered digital solutions**.
+I’m **Donnex T. Kamsonga**, a passionate **Full-Stack Software Engineer, Sales Operations  and  Automation Engineer** with **6+ years** of experience architecting, building, and deploying **scalable, secure, and user-centered digital solutions**.
 
 I specialize in:
 - ⚡ Modern web stacks like **Next.js**, **React.js**, **Node.js**, and **Laravel**
@@ -60,7 +60,6 @@ I’ve developed platforms powering industries from **agriculture** and **health
 
 ### 🏆 Achievements
 - 💼 6+ years of professional experience delivering enterprise software
-- 🧩 Founder & CEO of **INFI-TECH INC**
 - 👥 Successfully led and mentored cross-functional development teams
 - 🌐 Built 10+ production-grade systems used by organizations across Africa
 - ⚙️ Automated workflows improving efficiency for **Talents2Germany**
