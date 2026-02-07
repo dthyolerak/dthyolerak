@@ -26,6 +26,9 @@ I’ve developed platforms powering industries from **agriculture** and **health
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,redux,nodejs,laravel,nestjs,express,postgres,mysql,prisma,docker,nginx,aws,vercel,git,github,figma&perline=10" />
 </p>
+#### 🖥️ Frontend
+
+`Electron` · `WebSocket` · `Electron IPC` · `React-window` · `Electron Forge` · `esbuild`
 
 #### 🖥️ Frontend
 `React.js` · `Next.js` · `TypeScript` · `TailwindCSS` · `Redux Toolkit` · `Framer Motion`
