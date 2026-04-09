@@ -24,26 +24,44 @@ I’ve developed platforms powering industries from **agriculture** and **health
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,redux,nodejs,laravel,nestjs,express,postgres,mysql,prisma,docker,nginx,aws,vercel,git,github,figma&perline=10" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,redux,nodejs,laravel,nestjs,express,postgres,mysql,prisma,docker,nginx,aws,vercel,git,github,figma,bcrypt,axios,framer,lucide,nodemailer,html,css,js,paypal,cloudinary,nextauth,husky,prettier,eslint,jest,typescript&perline=10" />
 </p>
 
 #### 🖥️ Frontend
-`Electron` · `WebSocket` · `Electron IPC` · `React-window` · `Electron Forge` · `esbuild`
+`React.js` · `Next.js` · `TypeScript` · `TailwindCSS` · `Redux Toolkit` · `Framer Motion` · `Electron` · `WebSocket` · `Electron IPC` · `React-window` · `Electron Forge` · `esbuild` · `Lucide React` · `Canvas Confetti` · `Google Fonts` · `React Native` · `Expo` · `NativeWind` · `React Navigation` · `QR Code Generation` · `Camera Integration` · `Geolocation Services` · `Offline Storage` · `Next.js App Router` · `Server Components` · `Image Optimization` · `Dynamic Routes` · `Middleware`
 
-#### 🖥️ Frontend
-`React.js` · `Next.js` · `TypeScript` · `TailwindCSS` · `Redux Toolkit` · `Framer Motion`
+#### UI Component Libraries
+`Radix UI` · `shadcn/ui` · `class-variance-authority` · `clsx` · `cmdk` · `lint-staged` · `Component Variants` · `Accessible UI` · `Tailwind Merge` · `Component Composition`
+
+#### 📈 SEO Optimization
+`next-seo` · `SEO Meta Tags` · `Structured Data` · `Open Graph` · `Twitter Cards`
 
 #### ⚙️ Backend
-`Node.js` · `Laravel` · `NestJS` · `Express.js`· `PHP`· `Symfony`
+`Node.js` · `NestJS` · `Express.js`· `Laravel`· `PHP`· `Symfony` · `Microservices Architecture` · `API Gateway` · `Event-Driven Design` · `Message Queues` · `JWT Authentication` · `Rate Limiting` · `NextAuth.js` · `Session Management` · `OAuth Integration` · `bcrypt` · `Password Hashing` · `Axios HTTP Client` · `API Integration` · `Knex.js Query Builder` · `Database Migrations` · `Winston Logging` · `Morgan HTTP Logger` · `Helmet Security` · `CORS` · `Multer File Uploads` · `Credentials Provider` · `JWT Strategy`
 
-#### 🗄️ Databases
-`PostgreSQL` · `MySQL` · `Prisma` · `Sequelize`
+#### 🗄️ Databases & Storage
+`PostgreSQL` · `MySQL` · `Prisma` · `Sequelize` · `Redis` · `Database Migrations` · `Connection Pooling` · `Multi-Schema Design` · `Optimistic Locking` · `SQL.js (SQLite)` · `Expo SQLite` · `Async Storage` · `Local Database Sync`
 
 #### ☁️ DevOps & Cloud
-`Docker` · `Nginx` · `GitHub Actions` · `AWS` · `Vercel`
+`Docker` · `Docker Compose` · `Kubernetes` · `Nginx` · `GitHub Actions` · `AWS` · `Vercel` · `HashiCorp Vault` · `RabbitMQ` · `Health Checks` · `Load Balancing` · `Netlify Serverless` · `Electron Builder` · `Cross-Platform Builds` · `CI/CD Pipelines`
 
 #### 🤖 Automation & Tools
-`Zapier` · `Make` · `ClickUp` · `Sendinblue` · `Figma` · `Jira`
+`Zapier` · `Make` · `ClickUp` · `Sendinblue` · `Figma` · `Jira` · `Turborepo` · `pnpm` · `ESLint` · `Prettier` · `Jest` · `Swagger/OpenAPI` · `Concurrently` · `Nodemon` · `Wait-on` · `Form Validation` · `UUID Generation` · `Husky Git Hooks` · `Lint-staged` · `Cross-env` · `TS-node`
+
+#### 📝 Rich Text & Content Management
+`Tiptap` · `Rich Text Editors` · `Content Management Systems` · `File Upload Systems` · `Image Processing` · `FormData Handling`
+
+#### 💸 Payment & Financial Systems
+`PayChangu` · `PayPal` · `Payment Gateway Integration` · `Mobile Money` · `Webhook Processing` · `Transaction Verification` · `Financial Reporting` · `Donation Management` · `Airtel Money` · `TNM Mpamba` · `Africa's Talking SMS` · `USSD Integration` · `PayPal SDK` · `PayPal Orders API` · `PayPal Subscriptions` · `Currency Handling`
+
+#### 📧 Email & Communication
+`Nodemailer` · `HTML Email Templates` · `Transactional Emails` · `Email Automation` · `Contact Management` · `Notification Systems` · `SMS Gateway` · `Real-time Notifications` · `Multi-language Support` · `Contact Form Submissions` · `Message Management`
+
+#### 📊 Data Validation & Forms
+`Zod` · `React Hook Form` · `@hookform/resolvers` · `Form Validation` · `Type Safety` · `Schema Validation` · `Input Sanitization`
+
+#### 📈 Analytics & Monitoring
+`Site Analytics` · `User Tracking` · `Performance Monitoring` · `Error Logging` · `Business Intelligence`
 
 ---
 
@@ -56,16 +74,30 @@ I’ve developed platforms powering industries from **agriculture** and **health
 | 💰 [**WealthBridge**](https://wealthbridgemw.com) | Loan management & financial consulting platform with mobile app integration. | Next.js · TypeScript · Prisma · Node.js · PostgreSQL · TailwindCSS · REST API · Docker · Hostinger VPS | 🟢 Live |
 | 🧬 [**Pacific Diagnostics**](https://pacificdiagnosticsmw.com) | Corporate healthcare platform with patient management & appointment booking. | Next.js · TypeScript · Prisma · Node.js · PostgreSQL · TailwindCSS · REST API · Docker · Hostinger VPS | 🟢 Live |
 | 💡 [**Identity Impact Hub**](https://identityimpacthub.com) | Innovation and entrepreneurship hub platform for startups and community programs. | Next.js · TypeScript · TailwindCSS · Node.js · PostgreSQL · Prisma · REST API · Vercel | 🟢 Live |
+| 🌟 [**Community Concern for the Needy (CCN)**](https://ccnmw.org) | Comprehensive NGO digital platform for fundraising, transparency, and community impact management. | Next.js 16 · TypeScript · Prisma · PostgreSQL · TailwindCSS · NextAuth.js · Tiptap · Nodemailer · PayChangu · Zod · React Hook Form · Rich Text Editing · Payment Processing · Email Automation · File Upload · Admin Dashboard · Role-Based Access | 🟢 Production |
 | 🏢 [**JF Investments Group**](https://jfinvestgroup.com) | Centralized Business Management Platform representing subsidiaries in agriculture, logistics, and aviation. | Next.js · TypeScript · TailwindCSS · Node.js · PostgreSQL · Prisma · REST API · DigitalOcean | 🟠 Development |
 | 🏢 [**Zachangu Commuters Ltd**](https://zachangu.mw/) | Malawi's most trusted ride-hailing platform. Safe, reliable, and affordable transportation for everyone | Next.js · TypeScript · TailwindCSS · Node.js · PostgreSQL · Prisma · REST API · DigitalOcean | 🟠 Development |
+| 🏛️ [**e-Voucher Management System**](https://e-voucher.infi-tech.net/) | Comprehensive agricultural subsidy platform for Malawi Ministry of Agriculture with multi-platform access and offline capabilities. | **Multi-Platform Architecture** · **Express.js** · **Next.js** · **Electron** · **React Native** · **Expo** · **PostgreSQL** · **Redis** · **Knex.js** · **USSD Gateway** · **SMS Integration** · **Offline Sync** · **Role-Based Access** · **Geolocation** · **QR Codes** | 🟢 Production |
+| 🎮 [**ACES Gaming Platform**](https://aces.mw/) | Comprehensive gaming and raffle platform with integrated wallet, payments, and KYC for the Malawian market. | **Microservices Architecture** · **NestJS** · **TypeScript** · **PostgreSQL** · **Redis** · **RabbitMQ** · **Docker** · **HashiCorp Vault** · **Prisma ORM** · **JWT Auth** · **API Gateway** · **9 Services** | 🟢 Production |
 
 ---
 
 ### 🏆 Achievements
 - 💼 6+ years of professional experience delivering enterprise software
 - 👥 Successfully led and mentored cross-functional development teams
-- 🌐 Built 10+ production-grade systems used by organizations across Africa
-- ⚙️ Automated workflows improving efficiency for **Talents2Germany**
+- 🌐 Built 12+ production-grade systems used by organizations across Africa
+- **Architected ACES Gaming Platform** - Complete microservices ecosystem with 9 services, enterprise-grade security, and scalable infrastructure
+- **Built CCN NGO Platform** - Comprehensive digital fundraising platform with rich text editing, payment processing, email automation, and role-based admin dashboards
+- **Developed e-Voucher Management System** - Government-scale agricultural subsidy platform with 4 applications (Web, Desktop, Mobile, USSD), offline capabilities, and multi-language support for Malawi Ministry of Agriculture
+- **Implemented enterprise security** - JWT authentication, rate limiting, secrets management, and comprehensive audit trails
+- **Built scalable microservices architecture** - API Gateway, message queues, caching, and database isolation
+- **Integrated payment gateways** - PayChangu, mobile money, webhook processing, and transaction verification
+- **Developed email automation systems** - HTML templates, transactional emails, donor receipts, and admin notifications
+- **Created rich content management** - Tiptap editors, file uploads, image processing, and dynamic content rendering
+- **Implemented multi-platform architecture** - Web dashboard, desktop offline app, mobile field app, and USSD gateway for farmers with basic phones
+- **Built government-grade security** - Role-based access control, audit trails, geolocation tracking, and comprehensive data validation
+- Automated workflows improving efficiency for **Talents2Germany**
+- **Achieved B+ (82/100) backend audit score** for complex gaming platform with comprehensive security and performance standards
 
 ---
 
